@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="[https://codersera.com/blog/wp-content/uploads/2021/08/Data-Science-project-ideas-.jpeg](https://github.com/utkarshh35/utkarshh35/blob/main/rpa-concept-with-blurry-hand-touching-screen.jpg)" width = "900", height = "300"/>
+ <img src="rpa-concept-with-blurry-hand-touching-screen.jpg" width = "900", height = "300"/>
 </h1>
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
