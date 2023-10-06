@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://codersera.com/blog/wp-content/uploads/2021/08/Data-Science-project-ideas-.jpeg" />
+ <img src="https://codersera.com/blog/wp-content/uploads/2021/08/Data-Science-project-ideas-.jpeg": width: 300px;height: 400px />
 </h1>
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
