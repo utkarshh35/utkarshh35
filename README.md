@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="Data Science enthusiast.png" width = "900", height = "300"/>
+ <img src="Data Science enthusiast (1).png" width = "900", height = "300"/>
 </h1>
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
