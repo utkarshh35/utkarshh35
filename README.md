@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*oHwW14arOJOAy7Pm.gif"
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*oHwW14arOJOAy7Pm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshh35&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshh35" /> </p>
 
