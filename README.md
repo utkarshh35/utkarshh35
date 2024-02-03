@@ -34,8 +34,8 @@ From the moment I set foot in college, my curiosity led me to the fascinating wo
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="excel.svg" alt="Alt text" width="40" height="40">
-<img src="" alt="pandas" width="40" height="40"/> 
+<img src="excel.svg" alt="Excel" width="40" height="40"/>
+<img src="power-bi.svg" alt="pandas" width="40" height="40"/> 
 
 
 
