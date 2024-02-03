@@ -2,7 +2,7 @@
 # Hi, I'm Utkarsh! 👋
 
 
-## 🚀 About Me
+## About Me
 I'm a Data Scientist...
 
 From the moment I set foot in college, my curiosity led me to the fascinating world of data science. It all began when a friend introduced me to the dynamic realm of data-driven insights during my first year. Intrigued and captivated, I embarked on a journey that would shape my future and ignite a profound passion for the data field.
